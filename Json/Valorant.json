@@ -1,0 +1,17 @@
+{
+  "Valorant": {
+    "#text": "--",
+    "Agents": [
+      {
+        "name": "Pheonex",
+        "type": "Dualist",
+        "Ability": "Fire"
+      },
+      {
+        "name": "Omen",
+        "type": "Controller",
+        "Ability": "Smoke"
+      }
+    ]
+  }
+}

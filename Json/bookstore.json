@@ -1,0 +1,32 @@
+{
+    "bookstore": {
+      "book": [
+        {
+          "title": "Everyday Italian Murder",
+          "author": "Giada De Laurentiis Macho",
+          "year": 2009,
+          "price": 39.99
+        },
+        {
+          "title": "Harry Potter",
+          "author": "J K. Rowling",
+          "year": 2005,
+          "price": 29.99
+        },
+        {
+          "title": {
+            "#text": "Attack on Titan/title>",
+            "author": "Hajime Isayama",
+            "year": 2009,
+            "price": 49.99
+          },
+          "book": {
+            "title": "Learning XML",
+            "author": "Erik T. Ray",
+            "year": 2003,
+            "price": 39.95
+          }
+        }
+      ]
+    }
+  }
