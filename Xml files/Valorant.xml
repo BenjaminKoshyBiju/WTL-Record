@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Valorant>
+ <Agents>
+   <name>Pheonex</name>
+   <type>Dualist</type>
+   <Ability>Fire</Ability>
+ </Agents>
+ <Agents>
+   <name>Omen</name>
+   <type>Controller</type>
+   <Ability>Smoke</Ability>
+ </Agents>
+ </Valorant>
